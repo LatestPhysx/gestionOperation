@@ -1,0 +1,15 @@
+C:\Users\Omar\Desktop\gestionOperation\bin\Debug\gestionOperation.exe.config
+C:\Users\Omar\Desktop\gestionOperation\bin\Debug\gestionOperation.exe
+C:\Users\Omar\Desktop\gestionOperation\bin\Debug\gestionOperation.pdb
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.Form1.resources
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.Properties.Resources.resources
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.exe
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.pdb
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.exe.config
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.Form2.resources
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.Form3.resources
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.Form4.resources
+C:\Users\Omar\Desktop\gestionOperation\obj\Debug\gestionOperation.Form5.resources
